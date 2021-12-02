@@ -1,0 +1,6 @@
+diff a/usys.S b/usys.S	(rejected hunks)
+@@ -28,3 +28,4 @@ STUB(getpid)
+ STUB(getpid)
+ STUB(sbrk)
+ STUB(sleep)
++STUB(symlink)
